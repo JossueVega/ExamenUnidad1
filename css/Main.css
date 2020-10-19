@@ -1,0 +1,57 @@
+.jumbotron{
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/19/14/53/camera-1149041_960_720.jpg);
+    color: rgb(248, 251, 252);
+    height: 300px;
+    width: 96%;
+    margin: 25px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.card{
+    padding-top: 0.7em;
+    margin: 1em;
+}
+.card>img{
+     height: 200px;
+}
+.parametro{
+    padding-top: 3%;
+}
+
+.logo{
+    float: left;
+    padding: 0.2em;
+}
+.menu{
+    float: right;
+    padding: 0.1em;
+}
+.logo > h1{
+    margin-left: 2em;
+}
+.menu >a{
+    margin-right: 1em;   
+}
+.art1{
+    background-image: url(https://assets.newatlas.com/dims4/default/50b4ccf/2147483647/strip/true/crop/7436x4957+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F82%2F35%2Fcfa6713d46498b24b4cd49177cea%2Fmojowebheroshotoflens.jpeg);
+
+}
+.art2{
+    background-image: url(https://cdn.pixabay.com/photo/2014/02/02/17/40/photo-256888_960_720.jpg);
+
+}
+.col{
+    width: 200%;
+    max-height: 40px;
+    padding-left: 5px;
+    padding-right: 8px;
+}
+.acomodo{
+    float: right;
+    margin: 25px;
+}
+.form-control{
+    width: 80%;
+}
